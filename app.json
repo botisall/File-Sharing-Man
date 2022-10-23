@@ -7,15 +7,15 @@
     "file",
     "sharing"
   ],
-  "logo": "https://telegra.ph/file/9dc4e335feaaf6a214818.jpg",
+  "logo": "https://telegra.ph/file/4355356f75d0ce6a514de.jpg",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Masukan Bot token, Dapatkan dari t.me/BotFather",
-      "value": ""
+      "value": "5401027059:AAGUeC2Wb3luMXNvheDdPvd9dVXDl_j8-Kw"
     },
     "OWNER": {
       "description": "Masukan Username Telegram untuk Owner BOT [ Jangan Pake @ ]",
-      "value": "mrismanaziz"
+      "value": "makkikoenak"
     },
     "ADMINS": {
       "description": "Masukan User ID untuk mendapatkan hak Admin di BOT [ Gunakan Spasi Untuk Pemisah User ID ]",
